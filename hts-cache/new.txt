@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:25:50	1242/1242	---MCZ	403	error ('Forbidden')	text/html	date:Wed,%2001%20Jan%202025%2008:25:51%20GMT	https://grkhan71.sbs/index.php	C:/Users/Hp/Downloads/Server%20copy/grkhan71.sbs/index.0.delayed	(from )
+14:25:54	721/721	---MCZ	403	error ('Forbidden')	text/html	date:Wed,%2001%20Jan%202025%2008:25:56%20GMT	https://grkhan71.sbs/robots.txt		(from )
